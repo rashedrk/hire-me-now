@@ -1,0 +1,10 @@
+nav a{
+    padding: 10px;
+    color: #757575;
+}
+nav button {
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    padding: 10px;
+    border-radius: 8px;
+    color: white;
+}

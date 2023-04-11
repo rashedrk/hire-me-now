@@ -1,10 +1,19 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+import './Navbar.css';
 
 const Navbar = () => {
     return (
-        <div>
-            
-        </div>
+        <nav className='flex items-center'>
+            <h2 className='text-lg font-bold flex-auto'>HireMeNow</h2>
+            <div className='flex-auto  text-sm w-64'>
+            <Link>Home</Link>
+            <Link>Statistics</Link>
+            <Link>Applied Jobs</Link>
+            <Link>Blog</Link>
+            </div>
+            <button className='font-semibold'>Start Applying</button>
+        </nav>
     );
 };
 
