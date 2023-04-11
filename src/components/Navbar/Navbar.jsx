@@ -4,7 +4,7 @@ import './Navbar.css';
 
 const Navbar = () => {
     return (
-        <nav className='flex items-center'>
+        <nav className='flex items-center mb-5'>
             <h2 className='text-lg font-bold flex-auto'>HireMeNow</h2>
             <div className='flex-auto  text-sm w-64'>
             <Link to='/'>Home</Link>
