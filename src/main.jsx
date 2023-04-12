@@ -9,6 +9,7 @@ import AppliedJobs from './components/AppliedJobs/AppliedJobs'
 import Details from './components/Details/Details'
 import appliedJobsLoader from './utilities/appliedJobLoader'
 import Statistics from './components/Statistics/Statistics'
+import NotFound from './components/NotFound/NotFound'
 
 const router = createBrowserRouter([
   {
@@ -34,6 +35,10 @@ const router = createBrowserRouter([
       {
         path:"statistics",
         element: <Statistics></Statistics>
+      },
+      {
+        path: '*',
+        element: <NotFound></NotFound>
       }
     ]
   }
