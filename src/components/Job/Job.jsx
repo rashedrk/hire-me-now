@@ -22,7 +22,7 @@ const Job = ({job,applied}) => {
                         <p><img className='inline pe-2' src='assets/Icons/Frame.png' alt="" />Salary: {salary}</p>
                     </div>
                 </div>
-                <Link to={`/details/${id}`}><button>View Details</button></Link>
+                <Link to={`/jobs/${id}`}><button>View Details</button></Link>
             </div>
         
     );
