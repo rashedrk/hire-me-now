@@ -7,6 +7,7 @@ import Layout from './components/Layout/Layout'
 import Home from './components/Home/Home'
 import AppliedJobs from './components/AppliedJobs/AppliedJobs'
 import Details from './components/Details/Details'
+import appliedJobsLoader from './utilities/appliedJobLoader'
 
 const router = createBrowserRouter([
   {
@@ -19,7 +20,8 @@ const router = createBrowserRouter([
       },
       {
         path: "/appliedJobs",
-        element: <AppliedJobs></AppliedJobs>
+        element: <AppliedJobs></AppliedJobs>,
+        loader: appliedJobsLoader
       },
       {
         path: "details/:id",

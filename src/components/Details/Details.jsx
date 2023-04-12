@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useLoaderData } from 'react-router-dom';
+import { addToDb } from '../../utilities/localStorage';
 
 const Details = () => {
     const jobId = useLoaderData();
@@ -14,7 +15,7 @@ const Details = () => {
             })
     },[]);
 
-    const {description,responsibilities,edu,experiences,salary,title,phone,email,location} = job;
+    const {id,description,responsibilities,edu,experiences,salary,title,phone,email,location} = job;
     return (
         <div className='md:flex md:gap-10 my-20'>
             <div className='md:w-3/5'>
@@ -36,7 +37,7 @@ const Details = () => {
                     <p className='text-lg font-semibold mt-4'><img className='inline pe-2' src="/assets/Icons/Frame-3.png" alt="" />Email: <span className='font-normal text-[#757575]'>{email}</span></p>
                     <p className='text-lg font-semibold mt-4'><img className='inline pe-2' src="/assets/Icons/Frame-4.png" alt="" />Address: <span className='font-normal text-[#757575]'>{location}</span></p>
                 </div>
-                <button className='w-[100%]'>Apply now</button>
+                <button className='w-[100%]' onClick={() => addToDb(`${id}`)}>Apply now</button>
             </div>
         </div>
     );
