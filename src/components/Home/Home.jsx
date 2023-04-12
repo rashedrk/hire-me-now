@@ -9,7 +9,6 @@ const Home = () => {
             <Header></Header>
             <JobCategoryList></JobCategoryList>
             <FeaturedJobs></FeaturedJobs>
-            This is home
         </div>
     );
 };

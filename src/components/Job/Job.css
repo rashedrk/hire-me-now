@@ -1,0 +1,7 @@
+.type p {
+    border: 1px solid #9873FF ;
+    padding:8px 10px;
+    color: #9873FF;
+    border-radius: 8px;
+    font-weight: 600;
+}

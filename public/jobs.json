@@ -1,144 +1,144 @@
 [
     {
     "id": 1,
-    "company_logo": "https://example.com/company1.png",
-    "job_title": "Software Engineer",
-    "company_name": "Google",
-    "job_type": "Remote",
+    "logo": "assets/Images/google.png",
+    "title": "Software Engineer",
+    "company": "Google",
+    "type": "Remote",
     "location": "San Francisco, CA",
-    "job_time": "Full Time",
+    "time": "Full Time",
     "salary": "$100,000 - $120,000",
-    "job_description": "We're looking for a talented software engineer to join our team and help us build innovative new products.",
-    "job_responsibilities": [
+    "description": "We're looking for a talented software engineer to join our team and help us build innovative new products.",
+    "responsibilities": [
         "Design and develop new features for our software applications.",
         "Collaborate with cross-functional teams to identify and prioritize new product features.",
         "Write clean, efficient, and maintainable code that adheres to best practices and coding standards.",
         "Participate in code reviews and provide constructive feedback to team members.",
         "Mentor junior team members and help them grow in their roles."
     ],
-    "educational_requirements": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "edu": "Bachelor's degree in Computer Science, Engineering, or related field",
     "experiences": "3+ years of experience in software engineering",
-    "contact_information": {
+    "contact": {
         "phone": "555-123-4567",
         "email": "jobs@google.com"
         }
     },
     {
         "id": 2,
-        "company_logo": "https://example.com/company2.png",
-        "job_title": "Senior Software Engineer",
-        "company_name": "Netflix",
-        "job_type": "Onsite",
+        "logo": "assets/Images/netflix.png",
+        "title": "Senior Software Engineer",
+        "company": "Netflix",
+        "type": "Onsite",
         "location": "Los Gatos, CA",
-        "job_time": "Full Time",
+        "time": "Full Time",
         "salary": "$150,000 - $200,000",
-        "job_description": "We're seeking a highly skilled and motivated software engineer to help us build the future of entertainment.",
-        "job_responsibilities": [
+        "description": "We're seeking a highly skilled and motivated software engineer to help us build the future of entertainment.",
+        "responsibilities": [
           "Design and develop scalable and highly available systems to support our streaming platform.",
           "Collaborate with cross-functional teams to define technical requirements and project timelines.",
           "Write clean, efficient, and maintainable code that adheres to best practices and coding standards.",
           "Mentor junior team members and help them grow in their roles.",
           "Stay up-to-date with the latest technologies and industry trends."
         ],
-        "educational_requirements": "Bachelor's degree in Computer Science, Engineering, or related field",
+        "edu": "Bachelor's degree in Computer Science, Engineering, or related field",
         "experiences": "7+ years of experience in software engineering",
-        "contact_information": {
+        "contact": {
           "phone": "555-123-7890",
           "email": "jobs@netflix.com"
         }
       },
       {
         "id": 3,
-        "company_logo": "https://example.com/company3.png",
-        "job_title": "Data Analyst",
-        "company_name": "Tesla",
-        "job_type": "Remote",
+        "logo": "assets/Images/tesla.png",
+        "title": "Data Analyst",
+        "company": "Tesla",
+        "type": "Remote",
         "location": "Palo Alto, CA",
-        "job_time": "Full Time",
+        "time": "Full Time",
         "salary": "$80,000 - $100,000",
-        "job_description": "We're seeking a skilled data analyst to help us analyze and interpret large datasets to drive business decisions.",
-        "job_responsibilities": [
+        "description": "We're seeking a skilled data analyst to help us analyze and interpret large datasets to drive business decisions.",
+        "responsibilities": [
           "Design and implement data analysis projects to support various business units.",
           "Identify patterns and trends in data to drive insights and recommendations.",
           "Develop and maintain dashboards and reports to monitor key performance indicators.",
           "Collaborate with cross-functional teams to identify opportunities for data-driven decision making.",
           "Stay up-to-date with the latest data analysis techniques and tools."
         ],
-        "educational_requirements": "Bachelor's degree in Computer Science, Statistics, or related field",
+        "edu": "Bachelor's degree in Computer Science, Statistics, or related field",
         "experiences": "3+ years of experience in data analysis or related field",
-        "contact_information": {
+        "contact": {
           "phone": "555-123-4567",
           "email": "jobs@tesla.com"
         }
       },
       {
         "id": 4,
-        "company_logo": "https://example.com/company4.png",
-        "job_title": "Software Engineer",
-        "company_name": "Netflix",
-        "job_type": "Onsite",
+        "logo": "assets/Images/netflix.png",
+        "title": "Software Engineer",
+        "company": "Netflix",
+        "type": "Onsite",
         "location": "Los Gatos, CA",
-        "job_time": "Full Time",
+        "time": "Part Time",
         "salary": "$120,000 - $150,000",
-        "job_description": "We're looking for a talented software engineer to help us build and scale our streaming platform.",
-        "job_responsibilities": [
+        "description": "We're looking for a talented software engineer to help us build and scale our streaming platform.",
+        "responsibilities": [
           "Design and implement new features and functionality for our streaming service.",
           "Write clean, maintainable code that is well-documented and easy to understand.",
           "Collaborate with cross-functional teams to identify and address technical issues.",
           "Develop and maintain automated tests to ensure code quality and reliability.",
           "Stay up-to-date with the latest technologies and frameworks in software engineering."
         ],
-        "educational_requirements": "Bachelor's degree in Computer Science or related field",
+        "edu": "Bachelor's degree in Computer Science or related field",
         "experiences": "5+ years of experience in software engineering or related field",
-        "contact_information": {
+        "contact": {
           "phone": "555-123-4567",
           "email": "jobs@netflix.com"
         }
       },
       {
         "id": 5,
-        "company_logo": "https://example.com/company5.png",
-        "job_title": "Product Manager",
-        "company_name": "Airbnb",
-        "job_type": "Remote",
+        "logo": "assets/Images/airbnb.png",
+        "title": "Product Manager",
+        "company": "Airbnb",
+        "type": "Remote",
         "location": "San Francisco, CA",
-        "job_time": "Full Time",
+        "time": "Full Time",
         "salary": "$130,000 - $150,000",
-        "job_description": "We're seeking a product manager to help us drive the development and growth of our global travel platform.",
-        "job_responsibilities": [
+        "description": "We're seeking a product manager to help us drive the development and growth of our global travel platform.",
+        "responsibilities": [
           "Define and prioritize product features and requirements based on market research and customer feedback.",
           "Collaborate with cross-functional teams to develop and execute product roadmap.",
           "Manage and track product development progress, ensuring timely delivery and high quality.",
           "Analyze product performance metrics to identify areas for improvement and optimization.",
           "Stay up-to-date with the latest trends and technologies in the travel industry."
         ],
-        "educational_requirements": "Bachelor's degree in Business, Computer Science, or related field",
+        "edu": "Bachelor's degree in Business, Computer Science, or related field",
         "experiences": "5+ years of experience in product management or related field",
-        "contact_information": {
+        "contact": {
           "phone": "555-123-4567",
           "email": "jobs@airbnb.com"
         }
       },
       {
         "id": 6,
-        "company_logo": "https://example.com/company6.png",
-        "job_title": "Data Scientist",
-        "company_name": "Twitter",
-        "job_type": "Onsite",
+        "logo": "assets/Images/twitter.png",
+        "title": "Data Scientist",
+        "company": "Twitter",
+        "type": "Onsite",
         "location": "San Francisco, CA",
-        "job_time": "Full Time",
+        "time": "Full Time",
         "salary": "$140,000 - $160,000",
-        "job_description": "We're seeking a data scientist to help us analyze and understand the vast amounts of data generated by our social media platform.",
-        "job_responsibilities": [
+        "description": "We're seeking a data scientist to help us analyze and understand the vast amounts of data generated by our social media platform.",
+        "responsibilities": [
           "Develop and implement statistical models and algorithms to analyze large data sets.",
           "Identify and explore trends and patterns in user behavior and content on the platform.",
           "Collaborate with cross-functional teams to develop data-driven insights and recommendations for product and business strategy.",
           "Communicate findings and insights to both technical and non-technical stakeholders.",
           "Stay up-to-date with the latest research and developments in data science and machine learning."
         ],
-        "educational_requirements": "Master's degree in Computer Science, Statistics, or related field",
+        "edu": "Master's degree in Computer Science, Statistics, or related field",
         "experiences": "5+ years of experience in data science or related field",
-        "contact_information": {
+        "contact": {
           "phone": "555-123-4567",
           "email": "jobs@twitter.com"
         }
