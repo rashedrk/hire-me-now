@@ -9,19 +9,14 @@
     "time": "Full Time",
     "salary": "$100,000 - $120,000",
     "description": "We're looking for a talented software engineer to join our team and help us build innovative new products.",
-    "responsibilities": [
-        "Design and develop new features for our software applications.",
-        "Collaborate with cross-functional teams to identify and prioritize new product features.",
-        "Write clean, efficient, and maintainable code that adheres to best practices and coding standards.",
-        "Participate in code reviews and provide constructive feedback to team members.",
-        "Mentor junior team members and help them grow in their roles."
-    ],
+    "responsibilities": 
+        "Design and develop new features for our software applications. Collaborate with cross-functional teams to identify and prioritize new product features.Write clean, efficient, and maintainable code that adheres to best practices and coding standards.Participate in code reviews and provide constructive feedback to team members.Mentor junior team members and help them grow in their roles."
+    ,
     "edu": "Bachelor's degree in Computer Science, Engineering, or related field",
     "experiences": "3+ years of experience in software engineering",
-    "contact": {
+    
         "phone": "555-123-4567",
         "email": "jobs@google.com"
-        }
     },
     {
         "id": 2,
@@ -33,19 +28,15 @@
         "time": "Full Time",
         "salary": "$150,000 - $200,000",
         "description": "We're seeking a highly skilled and motivated software engineer to help us build the future of entertainment.",
-        "responsibilities": [
-          "Design and develop scalable and highly available systems to support our streaming platform.",
-          "Collaborate with cross-functional teams to define technical requirements and project timelines.",
-          "Write clean, efficient, and maintainable code that adheres to best practices and coding standards.",
-          "Mentor junior team members and help them grow in their roles.",
-          "Stay up-to-date with the latest technologies and industry trends."
-        ],
+        "responsibilities": 
+          "Design and develop scalable and highly available systems to support our streaming platform.Collaborate with cross-functional teams to define technical requirements and project timelines.Write clean, efficient, and maintainable code that adheres to best practices and coding standards.Mentor junior team members and help them grow in their roles.Stay up-to-date with the latest technologies and industry trends."
+        ,
         "edu": "Bachelor's degree in Computer Science, Engineering, or related field",
         "experiences": "7+ years of experience in software engineering",
-        "contact": {
+        
           "phone": "555-123-7890",
           "email": "jobs@netflix.com"
-        }
+        
       },
       {
         "id": 3,
@@ -57,19 +48,15 @@
         "time": "Full Time",
         "salary": "$80,000 - $100,000",
         "description": "We're seeking a skilled data analyst to help us analyze and interpret large datasets to drive business decisions.",
-        "responsibilities": [
-          "Design and implement data analysis projects to support various business units.",
-          "Identify patterns and trends in data to drive insights and recommendations.",
-          "Develop and maintain dashboards and reports to monitor key performance indicators.",
-          "Collaborate with cross-functional teams to identify opportunities for data-driven decision making.",
-          "Stay up-to-date with the latest data analysis techniques and tools."
-        ],
+        "responsibilities": 
+          "Design and implement data analysis projects to support various business units.Identify patterns and trends in data to drive insights and recommendations.Develop and maintain dashboards and reports to monitor key performance indicators.Collaborate with cross-functional teams to identify opportunities for data-driven decision making.Stay up-to-date with the latest data analysis techniques and tools."
+        ,
         "edu": "Bachelor's degree in Computer Science, Statistics, or related field",
         "experiences": "3+ years of experience in data analysis or related field",
-        "contact": {
+        
           "phone": "555-123-4567",
           "email": "jobs@tesla.com"
-        }
+        
       },
       {
         "id": 4,
@@ -81,19 +68,15 @@
         "time": "Part Time",
         "salary": "$120,000 - $150,000",
         "description": "We're looking for a talented software engineer to help us build and scale our streaming platform.",
-        "responsibilities": [
-          "Design and implement new features and functionality for our streaming service.",
-          "Write clean, maintainable code that is well-documented and easy to understand.",
-          "Collaborate with cross-functional teams to identify and address technical issues.",
-          "Develop and maintain automated tests to ensure code quality and reliability.",
-          "Stay up-to-date with the latest technologies and frameworks in software engineering."
-        ],
+        "responsibilities": 
+          "Design and implement new features and functionality for our streaming service.Write clean, maintainable code that is well-documented and easy to understand.Collaborate with cross-functional teams to identify and address technical issues.Develop and maintain automated tests to ensure code quality and reliability.Stay up-to-date with the latest technologies and frameworks in software engineering."
+        ,
         "edu": "Bachelor's degree in Computer Science or related field",
         "experiences": "5+ years of experience in software engineering or related field",
-        "contact": {
+        
           "phone": "555-123-4567",
           "email": "jobs@netflix.com"
-        }
+        
       },
       {
         "id": 5,
@@ -105,19 +88,15 @@
         "time": "Full Time",
         "salary": "$130,000 - $150,000",
         "description": "We're seeking a product manager to help us drive the development and growth of our global travel platform.",
-        "responsibilities": [
-          "Define and prioritize product features and requirements based on market research and customer feedback.",
-          "Collaborate with cross-functional teams to develop and execute product roadmap.",
-          "Manage and track product development progress, ensuring timely delivery and high quality.",
-          "Analyze product performance metrics to identify areas for improvement and optimization.",
-          "Stay up-to-date with the latest trends and technologies in the travel industry."
-        ],
+        "responsibilities": 
+          "Define and prioritize product features and requirements based on market research and customer feedback.Collaborate with cross-functional teams to develop and execute product roadmap. Manage and track product development progress, ensuring timely delivery and high quality.Analyze product performance metrics to identify areas for improvement and optimization.Stay up-to-date with the latest trends and technologies in the travel industry."
+        ,
         "edu": "Bachelor's degree in Business, Computer Science, or related field",
         "experiences": "5+ years of experience in product management or related field",
-        "contact": {
+        
           "phone": "555-123-4567",
           "email": "jobs@airbnb.com"
-        }
+        
       },
       {
         "id": 6,
@@ -129,19 +108,15 @@
         "time": "Full Time",
         "salary": "$140,000 - $160,000",
         "description": "We're seeking a data scientist to help us analyze and understand the vast amounts of data generated by our social media platform.",
-        "responsibilities": [
-          "Develop and implement statistical models and algorithms to analyze large data sets.",
-          "Identify and explore trends and patterns in user behavior and content on the platform.",
-          "Collaborate with cross-functional teams to develop data-driven insights and recommendations for product and business strategy.",
-          "Communicate findings and insights to both technical and non-technical stakeholders.",
-          "Stay up-to-date with the latest research and developments in data science and machine learning."
-        ],
+        "responsibilities": 
+            "Develop and implement statistical models and algorithms to analyze large data sets. Identify and explore trends and patterns in user behavior and content on the platform. Collaborate with cross-functional teams to develop data-driven insights and recommendations for product and business strategy. Communicate findings and insights to both technical and non-technical stakeholders. Stay up-to-datewith the latest research and developments in data science and machine learning."
+        ,
         "edu": "Master's degree in Computer Science, Statistics, or related field",
         "experiences": "5+ years of experience in data science or related field",
-        "contact": {
+        
           "phone": "555-123-4567",
           "email": "jobs@twitter.com"
-        }
+        
       }
       
                         

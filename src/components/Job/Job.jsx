@@ -1,8 +1,9 @@
 import React from 'react';
 import './Job.css';
+import { Link } from 'react-router-dom';
 
 const Job = ({job}) => {
-    const {logo, title, company, location, salary, type, time} = job;
+    const {id,logo, title, company, location, salary, type, time} = job;
     return (
         <div className='border rounded p-8'>
             <img className='mb-5' src={logo} alt="" />
@@ -17,7 +18,7 @@ const Job = ({job}) => {
                     <p><img className='inline pe-2' src='assets/Icons/LocationIcon.png' alt="" />{location}</p>
                     <p><img className='inline pe-2' src='assets/Icons/Frame.png' alt="" />Salary: {salary}</p>
                 </div>
-                <button>View Details</button>
+                <Link to={`/details/${id}`}><button>View Details</button></Link>
             </div>
         
     );
